@@ -26,7 +26,3 @@ Este é um exemplo de página HTML que representa a página de um produto fictí
 - [Guia de HTML](https://www.w3schools.com/html/default.asp): Uma ótima referência para aprender mais sobre HTML.
 - [Guia de CSS](https://www.w3schools.com/css/default.asp): Recursos úteis para aprender sobre estilização de páginas com CSS.
 - [Guia de JavaScript](https://www.w3schools.com/js/default.asp): Recursos para aprender JavaScript para adicionar funcionalidades interativas.
-
----
-
-Este README fornece uma visão geral do projeto, explica como usar e personalizar a página do produto e inclui recursos adicionais para aprender mais sobre HTML, CSS e JavaScript. Sinta-se à vontade para ajustá-lo conforme necessário para o seu projeto específico.
