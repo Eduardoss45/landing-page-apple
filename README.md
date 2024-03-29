@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de README com base no código HTML fornecido:
-
----
-
 # Página do Produto: iPhone 13 Pro
 
 Este é um exemplo de página HTML que representa a página de um produto fictício: iPhone 13 Pro. A página inclui informações sobre o produto, como título, descrição, preço, imagens e opções de cores, juntamente com uma barra de navegação e um botão de compra.
